@@ -1,52 +1,52 @@
-157732	k__Bacteria; p__Bacteroidetes; c__Cytophagia; o__Cytophagales; f__Cyclobacteriaceae; g__; s__
-103703	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Rhodocyclales; f__Rhodocyclaceae; g__Hydrogenophilus; s__
-829745	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__; s__
-267337	k__Bacteria; p__OD1; c__; o__; f__; g__; s__
-4485182	k__Bacteria; p__Firmicutes; c__Clostridia; o__Thermoanaerobacterales; f__Caldicellulosiruptoraceae; g__Caldicellulosiruptor; s__saccharolyticus
-213540	k__Bacteria; p__Chloroflexi; c__Anaerolineae; o__WCHB1-50; f__; g__; s__
-4485906	k__Bacteria; p__Thermotogae; c__Thermotogae; o__Thermotogales; f__Thermotogaceae; g__Kosmotoga; s__mrcj
-817657	k__Bacteria; p__EM3; c__; o__; f__; g__; s__
-1814821	k__Archaea; p__Crenarchaeota; c__MCG; o__; f__; g__; s__
-3850642	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingomonas; s__
-4461429	k__Bacteria; p__OD1; c__; o__; f__; g__; s__
-145976	k__Bacteria; p__GAL15; c__; o__; f__; g__; s__
-1122817	k__Bacteria; p__OD1; c__ZB2; o__; f__; g__; s__
-839	k__Archaea; p__Crenarchaeota; c__Thermoprotei; o__; f__; g__; s__
-4183921	k__Bacteria; p__Chloroflexi; c__Anaerolineae; o__Anaerolineales; f__Anaerolinaceae; g__; s__
-509610	k__Bacteria; p__Chloroflexi; c__Thermomicrobia; o__JG30-KF-CM45; f__; g__; s__
-246091	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Alteromonadales; f__Alteromonadaceae; g__Cellvibrio; s__
-1431	k__Bacteria; p__Armatimonadetes; c__SJA-176; o__TP122; f__; g__; s__
-809561	k__Bacteria; p__FBP; c__; o__; f__; g__; s__
-103850	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Rhodocyclales; f__Rhodocyclaceae; g__; s__
-205192	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__Chloroflexales; f__Chloroflexaceae; g__; s__
-1125831	k__Bacteria; p__Nitrospirae; c__Nitrospira; o__Nitrospirales; f__[Thermodesulfovibrionaceae]; g__Thermodesulfovibrio; s__
-628527	k__Bacteria; p__Acidobacteria; c__BPC102; o__B110; f__; g__; s__
-354746	k__Bacteria; p__Chloroflexi; c__Anaerolineae; o__CFB-26; f__; g__; s__
-798898	k__Bacteria; p__OP8; c__OP8_1; o__; f__; g__; s__
-258745	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Microbacteriaceae; g__Microbacterium; s__aurum
-4423691	k__Bacteria; p__Chloroflexi; c__Anaerolineae; o__SJA-15; f__; g__; s__
-304218	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Rhodocyclales; f__Rhodocyclaceae; g__Zoogloea; s__
-3231788	k__Bacteria; p__Bacteroidetes; c__; o__; f__; g__; s__
-1976361	k__Bacteria; p__[Thermi]; c__Deinococci; o__Thermales; f__Thermaceae; g__Thermus; s__
-4484579	k__Bacteria; p__[Thermi]; c__Deinococci; o__Thermales; f__Thermaceae; g__Thermus; s__
-675672	k__Bacteria; p__Chloroflexi; c__Anaerolineae; o__; f__; g__; s__
-277912	k__Bacteria; p__Armatimonadetes; c__; o__; f__; g__; s__
-1720381	k__Bacteria; p__[Caldithrix]; c__KSB1; o__Ucn15732; f__; g__; s__
-253352	k__Bacteria; p__Planctomycetes; c__vadinHA49; o__DH61; f__; g__; s__
-685071	k__Bacteria; p__Chloroflexi; c__Anaerolineae; o__OPB11; f__; g__; s__
-1142871	k__Bacteria; p__Actinobacteria; c__MB-A2-108; o__0319-7L14; f__; g__; s__
-4466442	k__Bacteria; p__Actinobacteria; c__MB-A2-108; o__0319-7L14; f__; g__; s__
-4485983	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__; s__
-4452531	k__Bacteria; p__Nitrospirae; c__Nitrospira; o__Nitrospirales; f__[Thermodesulfovibrionaceae]; g__BD2-6; s__
-4485790	k__Bacteria; p__Chloroflexi; c__Chloroflexi; o__Chloroflexales; f__Chloroflexaceae; g__Chloroflexus; s__
-100664	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__; s__
-1107644	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__stutzeri
-4485775	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__stutzeri
-1105533	k__Bacteria; p__Bacteroidetes; c__[Rhodothermi]; o__[Rhodothermales]; f__Rhodothermaceae; g__Rhodothermus; s__
-4328163	k__Bacteria; p__Verrucomicrobia; c__[Pedosphaerae]; o__[Pedosphaerales]; f__; g__; s__
-4431617	k__Bacteria; p__Planctomycetes; c__Planctomycetia; o__Pirellulales; f__Pirellulaceae; g__; s__
-170827	k__Bacteria; p__Chloroflexi; c__Anaerolineae; o__SHA-20; f__; g__; s__
-833216	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__
+157732	k__Bacteria; p__Bacteroidetes;
+103703	k__Bacteria; p__Proteobacteria;
+829745	k__Bacteria; p__Proteobacteria;
+267337	k__Bacteria; p__OD1;
+4485182	k__Bacteria; p__Firmicutes;
+213540	k__Bacteria; p__Chloroflexi;
+4485906	k__Bacteria; p__Thermotogae;
+817657	k__Bacteria; p__EM3;
+1814821	k__Archaea; p__Crenarchaeota;
+3850642	k__Bacteria; p__Proteobacteria;
+4461429	k__Bacteria; p__OD1;
+145976	k__Bacteria; p__GAL15;
+1122817	k__Bacteria; p__OD1;
+839	k__Archaea; p__Crenarchaeota;
+4183921	k__Bacteria; p__Chloroflexi;
+509610	k__Bacteria; p__Chloroflexi;
+246091	k__Bacteria; p__Proteobacteria;
+1431	k__Bacteria; p__Armatimonadetes;
+809561	k__Bacteria; p__FBP;
+103850	k__Bacteria; p__Proteobacteria;
+205192	k__Bacteria; p__Chloroflexi;
+1125831	k__Bacteria; p__Nitrospirae;
+628527	k__Bacteria; p__Acidobacteria;
+354746	k__Bacteria; p__Chloroflexi;
+798898	k__Bacteria; p__OP8;
+258745	k__Bacteria; p__Actinobacteria;
+4423691	k__Bacteria; p__Chloroflexi;
+304218	k__Bacteria; p__Proteobacteria;
+3231788	k__Bacteria; p__Bacteroidetes;
+1976361	k__Bacteria; p__[Thermi];
+4484579	k__Bacteria; p__[Thermi];
+675672	k__Bacteria; p__Chloroflexi;
+277912	k__Bacteria; p__Armatimonadetes;
+1720381	k__Bacteria; p__[Caldithrix];
+253352	k__Bacteria; p__Planctomycetes;
+685071	k__Bacteria; p__Chloroflexi;
+1142871	k__Bacteria; p__Actinobacteria;
+4466442	k__Bacteria; p__Actinobacteria;
+4485983	k__Bacteria; p__Spirochaetes;
+4452531	k__Bacteria; p__Nitrospirae;
+4485790	k__Bacteria; p__Chloroflexi;
+100664	k__Bacteria; p__Proteobacteria;
+1107644	k__Bacteria; p__Proteobacteria;
+4485775	k__Bacteria; p__Proteobacteria;
+1105533	k__Bacteria; p__Bacteroidetes;
+4328163	k__Bacteria; p__Verrucomicrobia;
+4431617	k__Bacteria; p__Planctomycetes;
+170827	k__Bacteria; p__Chloroflexi;
+833216	k__Bacteria; p__Firmicutes;
 136318	k__Bacteria; p__OP8; c__OP8_1; o__; f__; g__; s__
 257854	k__Bacteria; p__EM3; c__; o__; f__; g__; s__
 905647	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__Phenylobacterium; s__
