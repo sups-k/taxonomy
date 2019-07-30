@@ -1,0 +1,30 @@
+Downloaded samtools
+
+changed bashrc
+
+blastn -query MG.fa -db /home/ibab/Bioinfo/green_genes/gg_13_5.fasta -outfmt 6 -num_alignments 1 -out MG_on_gg.out6 -num_threads 3 -evalue 1e-10
+less MG_on_gg.out6 
+cut -f2 MG_on_gg.out6 | less
+cut -f2 MG_on_gg.out6 | sort | less
+cut -f2 MG_on_gg.out6 | sort -n | less
+			-n for numerical sorting
+cut -f2 MG_on_gg.out6 | sort -n | uniq | less
+cut -f2 MG_on_gg.out6 | sort -n | uniq > unique_ids.txt
+
+Find the fasta files from green genes that match the unique ids:
+xargs samtools faidx /home/ibab/Bioinfo/green_genes/gg_13_5.fasta <unique_ids.txt> out.fasta
+clustalx
+
+When GUI opens, file > load sequences
+trees > draw tree
+
+Close
+
+Open out.ph in dendroscope
+Save as jpeg
+
+From unique_ids.txt get taxonomy details (only phylum) from gg_13_5_taxonomy.txt
+	grep -Fwf unique_ids.txt ~/Bioinfo/green_genes/gg_13_5_taxonomy.txt >  out_phy.txt
+Count frequency of each phylum
+Make a stack bar plot
+228054  k__Bacteria; p__Cyanobacteria;
